@@ -1,1 +1,29 @@
+body {
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image:  linear-gradient(135deg, #96cab8 25%, transparent 25%), linear-gradient(225deg, #96cab8 25%, transparent 25%), linear-gradient(45deg, #96cab8 25%, transparent 25%), linear-gradient(315deg, #96cab8 25%, #e5e5f7 25%);
+  background-position:  40px 0, 40px 0, 0 0, 0 0;
+  background-size: 40px 40px;
+  background-repeat: repeat;
+}
 
+h1 {
+  font-weight: bold;
+  font-family: "Madimi One", sans-serif;
+  text-align: center;
+  text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC, 2px -8px 8px rgba(197,106,167,0.32);
+  font-size: 55px;
+  
+}
+
+p {
+  background: white;
+  color: black;
+  width: 600px;
+  border: 11px outset #A42166;
+  border-radius: 40px;
+  padding:30px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: "Prata", serif;
+}
